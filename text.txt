@@ -1,0 +1,63 @@
+Vnexpress: 
+   - Doi song:
+      https://vnexpress.net/doi-song/cooking
+      https://vnexpress.net/doi-song/to-am
+      https://vnexpress.net/doi-song/bai-hoc-song
+      https://vnexpress.net/doi-song/nha
+      https://vnexpress.net/doi-song/tieu-dung
+   - Thoi su:
+      https://vnexpress.net/thoi-su/chinh-tri
+      https://vnexpress.net/thoi-su/dan-sinh
+      https://vnexpress.net/thoi-su/giao-thong
+      https://vnexpress.net/thoi-su/mekong
+      https://vnexpress.net/thoi-su/quy-hy-vong
+   - The gioi:
+      https://vnexpress.net/the-gioi/quan-su
+      https://vnexpress.net/the-gioi/tu-lieu
+      https://vnexpress.net/the-gioi/phan-tich
+      https://vnexpress.net/the-gioi/nguoi-viet-5-chau
+      https://vnexpress.net/the-gioi/cuoc-song-do-day
+Vietnamnet:
+   - Doi song:
+      https://vietnamnet.vn/vn/doi-song/gia-dinh/
+      https://vietnamnet.vn/vn/doi-song/chuyen-la/
+      https://vietnamnet.vn/vn/doi-song/gioi-tre/
+      https://vietnamnet.vn/vn/doi-song/tam-su/
+      https://vietnamnet.vn/vn/doi-song/am-thuc/
+      https://vietnamnet.vn/vn/doi-song/meo-vat/
+   - Thoi su:
+      https://vietnamnet.vn/vn/thoi-su/chong-tham-nhung/
+      https://vietnamnet.vn/vn/thoi-su/quoc-hoi-khoa-xv/
+      https://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/
+      https://vietnamnet.vn/vn/thoi-su/moi-truong/
+      https://vietnamnet.vn/vn/thoi-su/clip-nong/
+      https://vietnamnet.vn/vn/thoi-su/bhxh-bhyt/
+      https://vietnamnet.vn/vn/thoi-su/quoc-phong/
+   - Quoc te:
+      https://vietnamnet.vn/vn/the-gioi/binh-luan-quoc-te/
+      https://vietnamnet.vn/vn/the-gioi/chan-dung/
+      https://vietnamnet.vn/vn/the-gioi/ho-so/
+      https://vietnamnet.vn/vn/the-gioi/the-gioi-do-day/
+      https://vietnamnet.vn/vn/the-gioi/viet-nam-va-the-gioi/
+      https://vietnamnet.vn/vn/the-gioi/quan-su/
+Kenh14:
+   - Doi song:
+      https://kenh14.vn/xem-an-choi.chn
+      https://kenh14.vn/doi-song/nhan-vat.chn
+      https://kenh14.vn/doi-song/tram-yeu.chn
+   - Thoi su:
+      https://kenh14.vn/xa-hoi/song-xanh.chn
+      https://kenh14.vn/xa-hoi/phap-luat.chn
+      https://kenh14.vn/xa-hoi/nong-tren-mang.chn
+   - Quoc te:
+      https://kenh14.vn/the-gioi/di.chn
+      https://kenh14.vn/the-gioi/chum-anh.chn
+      https://kenh14.vn/the-gioi/kham-pha.chn
+Cafef:
+   - Doi song:
+      https://cafef.vn/song.chn
+      https://cafef.vn/lifestyle.chn
+   - Thoi su: 
+      https://cafef.vn/thoi-su.chn
+   - Quoc te:
+      https://cafef.vn/tai-chinh-quoc-te.chn
