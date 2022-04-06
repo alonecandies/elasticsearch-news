@@ -17,6 +17,100 @@ Vnexpress:
       https://vnexpress.net/the-gioi/phan-tich
       https://vnexpress.net/the-gioi/nguoi-viet-5-chau
       https://vnexpress.net/the-gioi/cuoc-song-do-day
+   - Podcast:
+      https://vnexpress.net/podcast
+      https://vnexpress.net/podcast/vnexpress-hom-nay
+      https://vnexpress.net/podcast/ly-hon
+      https://vnexpress.net/podcast/tham-thi
+      https://vnexpress.net/podcast/ban-on-khong
+      https://vnexpress.net/podcast/toi-trong-guong
+      https://vnexpress.net/podcast/chuyen-di-lam
+      https://vnexpress.net/podcast/up-mo-18
+   - Kinh doanh:
+      https://vnexpress.net/kinh-doanh
+      https://vnexpress.net/kinh-doanh/quoc-te
+      https://vnexpress.net/kinh-doanh/doanh-nghiep
+      https://vnexpress.net/kinh-doanh/chung-khoan
+      https://vnexpress.net/kinh-doanh/bat-dong-san
+      https://vnexpress.net/kinh-doanh/ebank
+      https://vnexpress.net/kinh-doanh/vi-mo
+      https://vnexpress.net/kinh-doanh/tien-cua-toi
+      https://vnexpress.net/kinh-doanh/bao-hiem
+      https://vnexpress.net/kinh-doanh/hang-hoa
+      https://vnexpress.net/kinh-doanh/e-commerce-40
+   - Khoa hoc:
+      https://vnexpress.net/khoa-hoc
+      https://vnexpress.net/khoa-hoc/khoa-hoc-trong-nuoc
+      https://vnexpress.net/khoa-hoc/tin-tuc
+      https://vnexpress.net/khoa-hoc/phat-minh
+      https://vnexpress.net/khoa-hoc/ung-dung
+      https://vnexpress.net/khoa-hoc/the-gioi-tu-nhien
+      https://vnexpress.net/khoa-hoc/thuong-thuc
+      https://vnexpress.net/khoa-hoc/cuoc-thi-sang-kien-khoa-hoc
+   - Giai tri:
+      https://vnexpress.net/giai-tri
+      https://vnexpress.net/giai-tri/gioi-sao
+      https://vnexpress.net/giai-tri/phim
+      https://vnexpress.net/giai-tri/nhac
+      https://vnexpress.net/giai-tri/thoi-trang
+      https://vnexpress.net/giai-tri/lam-dep
+      https://vnexpress.net/giai-tri/sach
+      https://vnexpress.net/giai-tri/san-khau-my-thuat
+   - The thao:
+      https://vnexpress.net/the-thao
+      https://vnexpress.net/bong-da
+      https://vnexpress.net/the-thao/du-lieu-bong-da
+      https://vnexpress.net/the-thao/tennis
+      https://vnexpress.net/the-thao/bundesliga
+      https://vnexpress.net/the-thao/cac-mon-khac
+      https://vnexpress.net/the-thao/world-cup-2022
+      https://vnexpress.net/the-thao/v-league
+      https://vnexpress.net/the-thao/hau-truong
+      https://vnexpress.net/the-thao/photo
+      https://vnexpress.net/the-thao/tuong-thuat
+   - Phap luat:
+      https://vnexpress.net/phap-luat
+      https://vnexpress.net/phap-luat/ho-so-pha-an
+      https://vnexpress.net/phap-luat/tu-van 
+   - Giao duc:
+      https://vnexpress.net/giao-duc
+      https://vnexpress.net/giao-duc/tin-tuc
+      https://vnexpress.net/giao-duc/tuyen-sinh
+      https://vnexpress.net/giao-duc/chan-dung
+      https://vnexpress.net/giao-duc/du-hoc
+      https://vnexpress.net/giao-duc/hoc-tieng-anh
+      https://vnexpress.net/giao-duc/trac-nghiem
+      https://vnexpress.net/giao-duc/giao-duc-40
+   - Suc khoe:
+      https://vnexpress.net/suc-khoe
+      https://vnexpress.net/suc-khoe/tin-tuc
+      https://vnexpress.net/suc-khoe/tu-van
+      https://vnexpress.net/suc-khoe/dinh-duong
+      https://vnexpress.net/suc-khoe/khoe-dep
+      https://vnexpress.net/suc-khoe/dan-ong
+      https://vnexpress.net/suc-khoe/cac-benh
+      https://vnexpress.net/suc-khoe/vaccine
+      https://vnexpress.net/suc-khoe/di-chung-covid
+   - Du lich:
+      https://vnexpress.net/du-lich
+      https://vnexpress.net/du-lich/diem-den
+      https://vnexpress.net/du-lich/am-thuc
+      https://vnexpress.net/du-lich/dau-chan
+      https://vnexpress.net/du-lich/tu-van
+      https://vnexpress.net/du-lich/anh-video
+      https://vnexpress.net/du-lich/an-va-choi
+   - So hoa
+      https://vnexpress.net/so-hoa
+      https://vnexpress.net/so-hoa/cong-nghe
+      https://vnexpress.net/so-hoa/san-pham
+      https://vnexpress.net/so-hoa/blockchain
+   - O to:
+      https://vnexpress.net/oto-xe-may
+      https://vnexpress.net/oto-xe-may/thi-truong
+      https://vnexpress.net/oto-xe-may/cam-lai
+      https://vnexpress.net/oto-xe-may/dien-dan
+      https://vnexpress.net/oto-xe-may/car-awards-2021
+
 Vietnamnet:
    - Doi song:
       https://vietnamnet.vn/vn/doi-song/gia-dinh/
@@ -40,11 +134,81 @@ Vietnamnet:
       https://vietnamnet.vn/vn/the-gioi/the-gioi-do-day/
       https://vietnamnet.vn/vn/the-gioi/viet-nam-va-the-gioi/
       https://vietnamnet.vn/vn/the-gioi/quan-su/
+   - Kinh doanh:
+      https://vietnamnet.vn/kinh-doanh
+      https://vietnamnet.vn/kinh-doanh/tai-chinh
+      https://vietnamnet.vn/kinh-doanh/dau-tu
+      https://vietnamnet.vn/kinh-doanh/thi-truong
+      https://vietnamnet.vn/kinh-doanh/doanh-nhan
+      https://vietnamnet.vn/kinh-doanh/tu-van-tai-chinh
+      https://vietnamnet.vn/kinh-doanh/diem-tin-dung-cong-dan-4-0
+   - Giai tri:
+      https://vietnamnet.vn/giai-tri
+      https://vietnamnet.vn/giai-tri/the-gioi-sao
+      https://vietnamnet.vn/giai-tri/thoi-trang
+      https://vietnamnet.vn/giai-tri/nhac
+      https://vietnamnet.vn/giai-tri/phim
+      https://vietnamnet.vn/giai-tri/truyen-hinh
+      https://vietnamnet.vn/giai-tri/sach
+      https://vietnamnet.vn/giai-tri/di-san-my-thuat-san-khau
+   - The thao:
+      https://vietnamnet.vn/thong-tin-unesco
+      https://vietnamnet.vn/the-thao
+      https://vietnamnet.vn/the-thao/bong-da-viet-nam
+      https://vietnamnet.vn/the-thao/bong-da-quoc-te
+      https://vietnamnet.vn/the-thao/hau-truong
+      https://vietnamnet.vn/the-thao/cac-mon-khac
+      https://vietnamnet.vn/the-thao/xem-truc-tiep-bong-da
+      https://vietnamnet.vn/the-thao/du-lieu-bong-da
+      https://vietnamnet.vn/the-thao/tin-chuyen-nhuong
+      https://vietnamnet.vn/the-thao/video-the-thao
+   - Suc khoe:
+      https://vietnamnet.vn/suc-khoe
+      https://vietnamnet.vn/suc-khoe/lam-dep
+      https://vietnamnet.vn/suc-khoe/tu-van-suc-khoe
+      https://vietnamnet.vn/suc-khoe/benh
+   - Phap luat:
+      https://vietnamnet.vn/phap-luat
+      https://vietnamnet.vn/phap-luat/ho-so-vu-an
+      https://vietnamnet.vn/phap-luat/tu-van-phap-luat
+      https://vietnamnet.vn/phap-luat/ky-su-phap-dinh
+   - Oto - xe may:
+      https://vietnamnet.vn/oto-xe-may
+      https://vietnamnet.vn/oto-xe-may/xe-moi
+      https://vietnamnet.vn/oto-xe-may/kham-pha
+      https://vietnamnet.vn/oto-xe-may/sau-tay-lai
+      https://vietnamnet.vn/oto-xe-may/dien-dan
+      https://vietnamnet.vn/oto-xe-may/tu-van
+      https://vietnamnet.vn/oto-xe-may/danh-gia-xe
+      https://vietnamnet.vn/oto-xe-may/gia-xe
+   - Cong nghe:
+      https://vietnamnet.vn/cong-nghe
+      https://vietnamnet.vn/cong-nghe/cong-dong-mang
+      https://vietnamnet.vn/cong-nghe/ung-dung
+      https://vietnamnet.vn/cong-nghe/san-pham
+      https://vietnamnet.vn/cong-nghe/vien-thong
+      https://vietnamnet.vn/cong-nghe/bao-mat
+   - Bat dong san:
+      https://vietnamnet.vn/bat-dong-san
+      https://vietnamnet.vn/bat-dong-san/du-an
+      https://vietnamnet.vn/bat-dong-san/noi-that
+      https://vietnamnet.vn/bat-dong-san/kinh-nghiem-tu-van
+      https://vietnamnet.vn/bat-dong-san/thi-truong
+      https://vietnamnet.vn/bat-dong-san/nha-dep
+      https://vietnamnet.vn/bat-dong-san/kim-oanh-group
+   - Ban doc:
+      https://vietnamnet.vn/ban-doc
+      https://vietnamnet.vn/ban-doc/hoi-am
+      https://vietnamnet.vn/ban-doc/chia-se
+      https://vietnamnet.vn/ban-doc/tho
+      https://vietnamnet.vn/ban-doc/ngay-mai-tuoi-sang
+
 Kenh14:
    - Doi song:
       https://kenh14.vn/xem-an-choi.chn
       https://kenh14.vn/doi-song/nhan-vat.chn
       https://kenh14.vn/doi-song/tram-yeu.chn
+      https://kenh14.vn/money-z.chn
    - Thoi su:
       https://kenh14.vn/xa-hoi/song-xanh.chn
       https://kenh14.vn/xa-hoi/phap-luat.chn
@@ -53,11 +217,78 @@ Kenh14:
       https://kenh14.vn/the-gioi/di.chn
       https://kenh14.vn/the-gioi/chum-anh.chn
       https://kenh14.vn/the-gioi/kham-pha.chn
+   - Sao:
+      https://kenh14.vn/star/sao-viet.chn
+      https://kenh14.vn/star/hoi-ban-than-showbiz.chn
+      https://kenh14.vn/star.chn
+   - Dien anh:
+      https://kenh14.vn/tv-show.chn
+      https://kenh14.vn/cine.chn
+      https://kenh14.vn/cine/phim-chieu-rap.chn
+      https://kenh14.vn/cine/phim-viet-nam.chn
+      https://kenh14.vn/cine/series-truyen-hinh.chn
+      https://kenh14.vn/cine/hoa-ngu-han-quoc.chn
+   - Am nhac:
+      https://kenh14.vn/musik.chn
+      https://kenh14.vn/musik/au-my.chn
+      https://kenh14.vn/musik/chau-a.chn
+      https://kenh14.vn/musik/viet-nam.chn
+      https://kenh14.vn/musik/hip-hop-neva-die.chn
+   - Lam dep:
+      https://kenh14.vn/beauty-fashion.chn
+      https://kenh14.vn/beauty-fashion/star-style.chn
+      https://kenh14.vn/beauty-fashion/lam-dep.chn
+      https://kenh14.vn/beauty-fashion/thoi-trang.chn
+   - Mua sam:
+      https://kenh14.vn/xem-mua-luon.chn
+      https://kenh14.vn/xem-mua-luon/thoi-trang.chn
+      https://kenh14.vn/xem-mua-luon/dep.chn
+      https://kenh14.vn/xem-mua-luon/house-n-home.chn
+   - Giai tri:
+      https://kenh14.vn/an-quay-di.chn
+      https://kenh14.vn/an-quay-di/an.chn
+      https://kenh14.vn/an-quay-di/quay.chn
+      https://kenh14.vn/an-quay-di/di.chn
+   - The thao:
+      https://kenh14.vn/sport.chn
+      https://kenh14.vn/sport/bong-da.chn
+      https://kenh14.vn/sport/hau-truong.chn
+   - Hoc duong:
+      https://kenh14.vn/hoc-duong.chn
+      https://kenh14.vn/hoc-duong/tuyen-sinh.chn
+      https://kenh14.vn/hoc-duong/nguoi-viet-tre.chn
+      https://kenh14.vn/hoc-duong/du-hoc.chn
+      https://kenh14.vn/hoc-duong/ban-tin-46.chn
+   - The thao dien tu:
+      https://kenh14.vn/esports.chn
+      https://kenh14.vn/esports/cao-thu.chn
+      https://kenh14.vn/esports/dau-truong.chn
+      https://kenh14.vn/esports/dau-truong-danh-vong.chn
+   - Suc khoe:
+      https://kenh14.vn/suc-khoe.chn
+      https://kenh14.vn/suc-khoe/kien-thuc-gioi-tinh.chn
+   - Cong nghe cao:
+      https://kenh14.vn/2-tek/mobile.chn
+      https://kenh14.vn/2-tek/concept.chn
+      https://kenh14.vn/2-tek/ung-dung-thu-thuat.chn
+      https://kenh14.vn/2-tek/cong-nghe-vui.chn
+      https://kenh14.vn/2-tek.chn
+
 Cafef:
    - Doi song:
       https://cafef.vn/song.chn
       https://cafef.vn/lifestyle.chn
    - Thoi su: 
       https://cafef.vn/thoi-su.chn
-   - Quoc te:
+   - Chung khoan:
+      https://cafef.vn/thi-truong-chung-khoan.chn
+   - Bat dong san
+      https://cafef.vn/bat-dong-san.chn
+   - Doanh nghiep:
+      https://cafef.vn/doanh-nghiep.chn
+   - Tai chinh:
+      https://cafef.vn/tai-chinh-ngan-hang.chn
       https://cafef.vn/tai-chinh-quoc-te.chn
+      https://cafef.vn/vi-mo-dau-tu.chn
+      https://cafef.vn/kinh-te-so.chn
+      https://cafef.vn/thi-truong.chn
