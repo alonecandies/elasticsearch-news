@@ -1,0 +1,12 @@
+Crawl: cafef, kenh14,vnexpress, vietnamnet
+   - Link: text.txt
+   - Lib: requests, lxml => URL cua cac post trong cac trang
+Content extraction:
+   - Lib: trafilatura => bỏ hết các tag, chuyển từ html thành text 
+Indexing + Search: ELK stack
+   - E: elasticsearch: storage -> inverted index
+   - L: logstash: process
+   - k: kibana: visualization -> GUI
+   - Dataflow: Crawl data -> logstash -> elasticsearch -> kibana
+
+Cronjob: Host trên local nên phải tự chạy hàng ngày
