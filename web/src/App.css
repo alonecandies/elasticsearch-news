@@ -1,0 +1,18 @@
+.search-all span, .search-query span {
+  width: fit-content;
+  white-space: nowrap;
+  font-weight: 600;
+  font-size: 1.2em;
+}
+
+.search-all span{
+   margin-right: 38px;
+}
+
+.search-all button{
+   margin-left: 10px;
+}
+
+.search-query input{
+   margin: 0px 10px;
+}
