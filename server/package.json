@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@elastic/elasticsearch": "^8.2.0-patch.1",
+    "axios": "^0.27.2",
     "cors": "^2.8.5",
     "express": "^4.17.3"
   },

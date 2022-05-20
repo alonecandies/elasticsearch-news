@@ -1,14 +1,15 @@
+const express = require("express");
 var router = express.Router();
+const ES_URL = "http://localhost:9200/";
+const ES_INDEX = "journal";
 const axios = require("axios");
 const { Client } = require("@elastic/elasticsearch");
 const client = new Client({ node: ES_URL, pingTimeout: 3000 });
-const ES_URL = "http://localhost:9200/";
-const ES_INDEX = "journal";
 const QUERY_DATA = {
   query: {
     match_all: {},
   },
-  size: 600,
+  size: 1000,
 };
 
 const queryType = (data, searchType) => {
@@ -78,9 +79,11 @@ router.post("/search", async function (req, res, next) {
 });
 
 router.get("/getAll", function (req, res, next) {
-  axios.get(ES_URL + ES_INDEX + "/_search?size=600").then((response) => {
-    res.send(response.data.hits.hits);
-  });
+  axios
+    .get(ES_URL + ES_INDEX + "/_search?size=1000&pretty=true&q=*:*")
+    .then((response) => {
+      res.send(response.data.hits.hits);
+    });
 });
 
 module.exports = router;
