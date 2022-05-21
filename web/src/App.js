@@ -1,5 +1,5 @@
 import React, { useEffect, useState, useMemo } from "react";
-import { TableHeader, Pagination } from "./components";
+import { TableHeader } from "./components";
 import { BiSearch } from "react-icons/bi";
 import axios from "axios";
 import "bootstrap/dist/css/bootstrap.min.css";
@@ -7,8 +7,6 @@ import "./App.css";
 
 const App = () => {
   const [journals, setJournal] = useState([]);
-  const [totalItems, setTotalItems] = useState(0);
-  const [currentPage, setCurrentPage] = useState(1);
   const [sorting, setSorting] = useState({ field: "", order: "" });
   const [searchAll, setSearchAll] = useState("");
   const [domain, setDomain] = useState("");
@@ -30,7 +28,7 @@ const App = () => {
 
   const handleSearchAll = () => {
     axios
-      .post("localhost:4000/searchAll", {
+      .post("http://localhost:4000/searchAll", {
         query: searchAll,
       })
       .then((res) => {
@@ -40,7 +38,7 @@ const App = () => {
 
   const handleSearchQuery = () => {
     axios
-      .post("localhost:4000/search", {
+      .post("http://localhost:4000/search", {
         domain,
         URL,
         content,
@@ -48,45 +46,52 @@ const App = () => {
         category,
       })
       .then((res) => {
+        console.log(res);
         setJournal(res.data);
       });
   };
 
-  useEffect(() => {
-    const fetchData = () => {
-      axios.get("localhost:4000/getAll").then((res) => {
-        setJournal(res.data);
-      });
-    };
+  const fetchData = () => {
+    axios.get("http://localhost:4000/getAll").then((res) => {
+      setJournal(res.data);
+    });
+  };
 
+  const handleGetAll = () => {
+    fetchData();
+  };
+
+  useEffect(() => {
     fetchData();
   }, []);
 
   const journalsData = useMemo(() => {
     let computedJournals = journals;
 
-    setTotalItems(computedJournals.length);
-
     //Sorting
     if (sorting.field) {
       const reversed = sorting.order === "asc" ? 1 : -1;
-      computedJournals = computedJournals.sort(
-        (a, b) => reversed * a[sorting.field].localeCompare(b[sorting.field])
-      );
+      computedJournals = computedJournals.sort();
     }
 
     //Current Page slice
-    return computedJournals.slice(
-      (currentPage - 1) * ITEMS_PER_PAGE,
-      (currentPage - 1) * ITEMS_PER_PAGE + ITEMS_PER_PAGE
-    );
-  }, [journals, currentPage, sorting]);
+    return computedJournals;
+  }, [journals, sorting]);
 
   return (
     <>
+      <div className="container d-flex align-items-center justify-content-center">
+        <button
+          type="button"
+          className="btn btn-primary"
+          onClick={handleGetAll}
+        >
+          Get All
+        </button>
+      </div>
       <div className="container">
         <form>
-          <div class="form-group d-flex justify-content-center align-items-center my-3 search-all">
+          <div className="form-group d-flex justify-content-center align-items-center my-3 search-all">
             <span>Search All</span>
             <input
               type="text"
@@ -105,7 +110,7 @@ const App = () => {
           </div>
         </form>
         <form className="search-query">
-          <div class="form-group d-flex justify-content-center align-items-center my-3">
+          <div className="form-group d-flex justify-content-center align-items-center my-3">
             <span>Search query</span>
             <input
               type="text"
@@ -154,17 +159,6 @@ const App = () => {
       </div>
       <div className="row w-100">
         <div className="col mb-3 col-12 text-center">
-          <div className="row">
-            <div className="col-md-12 d-flex justify-content-center align-items-center">
-              <Pagination
-                total={totalItems}
-                itemsPerPage={ITEMS_PER_PAGE}
-                currentPage={currentPage}
-                onPageChange={(page) => setCurrentPage(page)}
-              />
-            </div>
-          </div>
-
           <table className="table table-striped">
             <TableHeader
               headers={headers}
@@ -172,13 +166,13 @@ const App = () => {
             />
             <tbody>
               {journalsData.map((journal) => (
-                <tr key={journal.id}>
-                  <th scope="row">{journal.id}</th>
-                  <td>{journal.domain}</td>
-                  <td>{journal.URL}</td>
-                  <td>{journal.date}</td>
-                  <td>{journal.category}</td>
-                  <td>{journal.content}</td>
+                <tr key={journal._id}>
+                  <th scope="row">{journal._id}</th>
+                  <td>{journal._source.domain}</td>
+                  <td>{journal._source.URL}</td>
+                  <td>{journal._source.date}</td>
+                  <td>{journal._source.category}</td>
+                  <td><div style={{height:"200px", overflow:"scroll"}}>{journal._source.content}</div></td>
                 </tr>
               ))}
             </tbody>
